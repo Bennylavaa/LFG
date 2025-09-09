@@ -4726,7 +4726,7 @@ LFG.allDungeons = {
     ['Zul\'Farrak'] = { minLevel = 44, maxLevel = 54, code = 'zf', queued = false, canQueue = true, background = 'zulfarak', myRole = '' },
     ['Maraudon Orange'] = { minLevel = 47, maxLevel = 55, code = 'orange', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
     ['Maraudon Purple'] = { minLevel = 45, maxLevel = 55, code = 'purple', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
-    ['Maraudon Princess'] = { minLevel = 47, maxLevel = 55, code = 'princess', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
+    ['Maraudon Princess'] = { minLevel = 47, maxLevel = 55, code = 'princ', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
     ['Temple of Atal\'Hakkar'] = { minLevel = 50, maxLevel = 60, code = 'st', queued = false, canQueue = true, background = 'sunkentemple', myRole = '' },
     ['Blackrock Depths'] = { minLevel = 52, maxLevel = 60, code = 'brd', queued = false, canQueue = true, background = 'blackrockdepths', myRole = '' },
     ['Blackrock Depths Arena'] = { minLevel = 52, maxLevel = 60, code = 'arena', queued = false, canQueue = true, background = 'blackrockdepths', myRole = '' },
@@ -4878,7 +4878,7 @@ LFG.bosses = {
         'Lord Vyletongue',
         'Celebras the Cursed'
     },
-    ['princess'] = {
+    ['princ'] = {
         'Tinkerer Gizlock',
         'Landslide',
         'Rotgrip',
