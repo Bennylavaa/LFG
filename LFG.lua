@@ -4716,27 +4716,27 @@ LFG.allDungeons = {
     ['Blackfathom Deeps'] = { minLevel = 23, maxLevel = 32, code = 'bfd', queued = false, canQueue = true, background = 'blackfathomdeeps', myRole = '' },
     ['Scarlet Monastery Graveyard'] = { minLevel = 28, maxLevel = 36, code = 'smgy', queued = false, canQueue = true, background = 'scarletmonastery', myRole = '' },
     ['Scarlet Monastery Library'] = { minLevel = 32, maxLevel = 39, code = 'smlib', queued = false, canQueue = true, background = 'scarletmonastery', myRole = '' },
-    ['Gnomeregan'] = { minLevel = 29, maxLevel = 38, code = 'gnomer', queued = false, canQueue = true, background = 'gnomeregan', myRole = '' },
+    ['Gnomeregan'] = { minLevel = 29, maxLevel = 38, code = 'gnome', queued = false, canQueue = true, background = 'gnomeregan', myRole = '' },
     ['Razorfen Kraul'] = { minLevel = 29, maxLevel = 38, code = 'rfk', queued = false, canQueue = true, background = 'razorfenkraul', myRole = '' },
-    ['Scarlet Monastery Armory'] = { minLevel = 34, maxLevel = 41, code = 'smarmory', queued = false, canQueue = true, background = 'scarletmonastery', myRole = '' },
+    ['Scarlet Monastery Armory'] = { minLevel = 34, maxLevel = 41, code = 'smarm', queued = false, canQueue = true, background = 'scarletmonastery', myRole = '' },
     ['Scarlet Monastery Cathedral'] = { minLevel = 37, maxLevel = 45, code = 'smcath', queued = false, canQueue = true, background = 'scarletmonastery', myRole = '' },
     ['Razorfen Downs'] = { minLevel = 36, maxLevel = 46, code = 'rfd', queued = false, canQueue = true, background = 'razorfendowns', myRole = '' },
-    ['Glittermurk Mines'] = { minLevel = 39, maxLevel = 44, code = 'ggm', queued = false, canQueue = true, background = 'tcg', myRole = '' }, -- Glittermurk
+    ['Glittermurk Mines'] = { minLevel = 39, maxLevel = 44, code = 'gmm', queued = false, canQueue = true, background = 'tcg', myRole = '' }, -- Glittermurk
     ['Uldaman'] = { minLevel = 40, maxLevel = 51, code = 'ulda', queued = false, canQueue = true, background = 'uldaman', myRole = '' },
     ['Zul\'Farrak'] = { minLevel = 44, maxLevel = 54, code = 'zf', queued = false, canQueue = true, background = 'zulfarak', myRole = '' },
-    ['Maraudon Orange'] = { minLevel = 47, maxLevel = 55, code = 'maraorange', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
-    ['Maraudon Purple'] = { minLevel = 45, maxLevel = 55, code = 'marapurple', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
-    ['Maraudon Princess'] = { minLevel = 47, maxLevel = 55, code = 'maraprincess', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
+    ['Maraudon Orange'] = { minLevel = 47, maxLevel = 55, code = 'orange', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
+    ['Maraudon Purple'] = { minLevel = 45, maxLevel = 55, code = 'purple', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
+    ['Maraudon Princess'] = { minLevel = 47, maxLevel = 55, code = 'princess', queued = false, canQueue = true, background = 'maraudon', myRole = '' },
     ['Temple of Atal\'Hakkar'] = { minLevel = 50, maxLevel = 60, code = 'st', queued = false, canQueue = true, background = 'sunkentemple', myRole = '' },
     ['Blackrock Depths'] = { minLevel = 52, maxLevel = 60, code = 'brd', queued = false, canQueue = true, background = 'blackrockdepths', myRole = '' },
-    ['Blackrock Depths Arena'] = { minLevel = 52, maxLevel = 60, code = 'brdarena', queued = false, canQueue = true, background = 'blackrockdepths', myRole = '' },
-    ['Blackrock Depths Emperor'] = { minLevel = 54, maxLevel = 60, code = 'brdemp', queued = false, canQueue = true, background = 'blackrockdepths', myRole = '' },
+    ['Blackrock Depths Arena'] = { minLevel = 52, maxLevel = 60, code = 'arena', queued = false, canQueue = true, background = 'blackrockdepths', myRole = '' },
+    ['Blackrock Depths Emperor'] = { minLevel = 54, maxLevel = 60, code = 'emp', queued = false, canQueue = true, background = 'blackrockdepths', myRole = '' },
     ['Lower Blackrock Spire'] = { minLevel = 55, maxLevel = 60, code = 'lbrs', queued = false, canQueue = true, background = 'blackrockspire', myRole = '' },
     ['Baradin Hold'] = { minLevel = 57, maxLevel = 60, code = 'bh', queued = false, canQueue = true, background = 'kc', myRole = '' }, --Baradin Hold
     -- ['Stonetalon Peaks'] = { minLevel = 57, maxLevel = 60, code = 'stp', queued = false, canQueue = true, background = 'hfq', myRole = '' }, --Stonetalon Peaks
     ['Scholomance'] = { minLevel = 58, maxLevel = 60, code = 'scholo', queued = false, canQueue = true, background = 'scholomance', myRole = '' },
-    ['Stratholme: Undead District'] = { minLevel = 58, maxLevel = 60, code = 'stratud', queued = false, canQueue = true, background = 'stratholme', myRole = '' },
-    ['Stratholme: Scarlet Bastion'] = { minLevel = 58, maxLevel = 60, code = 'stratlive', queued = false, canQueue = true, background = 'stratholme', myRole = '' },
+    ['Stratholme: Undead District'] = { minLevel = 58, maxLevel = 60, code = 'ud', queued = false, canQueue = true, background = 'stratholme', myRole = '' },
+    ['Stratholme: Scarlet Bastion'] = { minLevel = 58, maxLevel = 60, code = 'live', queued = false, canQueue = true, background = 'stratholme', myRole = '' },
     ['Upper Blackrock Spire'] = { minLevel = 58, maxLevel = 60, code = 'ubrs', queued = false, canQueue = true, background = 'blackrockspire', myRole = '' },
 
 }
@@ -4802,7 +4802,7 @@ LFG.bosses = {
         'Bazil Thredd',
         'Dextren Ward'
     },
-    ['gnomer'] = {
+    ['gnome'] = {
         'Grubbis',
         'Viscous Fallout',
         'Electrocutioner 6000',
@@ -4821,7 +4821,7 @@ LFG.bosses = {
         'Interrogator Vishas',
         'Bloodmage Thalnos'
     },
-    ['smarmory'] = {
+    ['smarm'] = {
         'Herod'
     },
     ['smcath'] = {
@@ -4840,7 +4840,7 @@ LFG.bosses = {
         'Plaguemaw the Rotting',
         'Amnennar the Coldbringer'
     },
-    ['ggm'] = { -- Glittermurk
+    ['gmm'] = { -- Glittermurk
         'Supervisor Grimgash',
         'Foreman Sprocket',
         'Krakken',
@@ -4870,15 +4870,15 @@ LFG.bosses = {
         'Ruuzlu',
         'Chief Ukorz Sandscalp'
     },
-    ['maraorange'] = {
+    ['orange'] = {
         'Noxxion',
         'Razorlash'
     },
-    ['marapurple'] = {
+    ['purple'] = {
         'Lord Vyletongue',
         'Celebras the Cursed'
     },
-    ['maraprincess'] = {
+    ['princess'] = {
         'Tinkerer Gizlock',
         'Landslide',
         'Rotgrip',
@@ -4918,14 +4918,14 @@ LFG.bosses = {
         'Magmus',
         'Emperor Dagran Thaurissan'
     },
-    ['brdemp'] = {
+    ['emp'] = {
         'General Angerforge',
         'Golem Lord Argelmach',
         'Emperor Dagran Thaurissan',
         'Magmus',
         'Ambassador Flamelash'
     },
-    ['brdarena'] = {
+    ['arena'] = {
         'Anub\'shiah-s', --summoned
         'Eviscerator-s', --summoned
         'Gorosh the Dervish-s', --summoned
@@ -4977,7 +4977,7 @@ LFG.bosses = {
         'Lady Illucia Barov',
         'Darkmaster Gandling'
     },
-    ['stratlive'] = {
+    ['live'] = {
         'Fras Siabi',
         'Hearthsinger Forresten',
         'The Unforgiven',
@@ -4989,7 +4989,7 @@ LFG.bosses = {
         'Archivist Galford',
         'Balnazzar'
     },
-    ['stratud'] = {
+    ['ud'] = {
         'Magistrate Barthilas',
         'Stonespine',
         'Nerub\'enkan',
